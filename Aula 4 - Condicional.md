@@ -74,7 +74,7 @@ if (idade > 18) {
 }
 ```
 
-## Condicionais Aninhados (Se { Se {} }
+## Condicionais Aninhados (Se { Se {} })
 
 Possui mais de um condicional Se, porém um está dentro do outro, o seja, são dependentes
 ```C
