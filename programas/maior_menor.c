@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Exercício 9.1: Capture 30 valores do teclado, calcule a soma, a média e mostre qual é o maior e menor
+//ExercÃ­cio 9.1: Capture 30 valores do teclado, calcule a soma, a mÃ©dia e mostre qual Ã© o maior e menor
 
 
 int main() {
