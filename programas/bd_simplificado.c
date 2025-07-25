@@ -94,7 +94,7 @@ int registros = 0;
 
 // Define as operacoes do programa
 
-// Implementa as operações
+// Implementa as operaÃ§Ãµes
 
 int main()
 {
