@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 
-//Exercício 9.2: Capture 30 valores do teclado, some os pares
+//ExercÃ­cio 9.2: Capture 30 valores do teclado, some os pares
 
 
 int main() {
